@@ -1,9 +1,6 @@
-# Star Wars Galaxies Source Code (C++) Repository
+# Star Wars Galaxies Unity Code (C++) Repository
 
-This is the main server code for SWGSource 1.2 as originally forked from the https://bitbucket.org/stellabellumswg/ repository.  Please see that repository for original publication and alteration credit.
-
-# Works in progress
-* 64-bit-types - fully 64 bit version that builds and runs completely.
+This is the main server code for SWG Unity 1.0 as originally forked from source.  Please see that repository for original publication and alteration credit.
 
 # Building
 
@@ -31,6 +28,4 @@ See http://clang.llvm.org/docs/UsersManual.html#profiling-with-instrumentation f
 
 # More Information
 
-See https://swg-source.github.io/ for more information on the SWG Source project.
-
-Join the SWGSource Discord if you would like to contribute:  https://discord.gg/j53cMj9
+Join the SWG Unity Discord if you would like to contribute: https://discord.gg/4GbJfuJtTT
